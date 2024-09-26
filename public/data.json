@@ -1,0 +1,196 @@
+[
+  {
+    "id": "1a1a",
+    "title": "Exploring the Pyramids of Giza",
+    "content": "<p>Standing in awe before the last remaining wonder of the ancient world...</p>",
+    "date": "2023-05-15",
+    "author": {
+      "uId": "2a9k",
+      "Uname": "John Doe"
+    },
+    "tags": [
+      "Egypt",
+      "pyramids",
+      "ancient history"
+    ],
+    "comments": [
+      {
+        "userid": "2a8k",
+        "comName": "",
+        "comment": "The Sphinx is truly breathtaking!",
+        "date": "2023-05-16"
+      },
+      {
+        "userid": "2a7k",
+        "comName": "Emy",
+        "comment": "I can't wait to visit Egypt myself!",
+        "date": "2023-05-17"
+      }
+    ],
+    "images": [
+      "./img/giza_1.jpg",
+      "./img/giza_2.jpg",
+      "./img/giza_3.jpg",
+      "./img/giza_4.jpg"
+    ],
+    "Country": "Egypt",
+    "Destination": [
+        "Giza",
+        "Cairo"
+    ]
+  },
+  {
+    "id": "1a1b",
+    "title": "Cruising the Nile River",
+    "content": "<p>Embarking on a luxurious journey down the lifeline of ancient Egypt...</p>",
+    "date": "2023-06-20",
+    "author": {
+      "uId": "2a8k",
+      "Uname": "Jane Doe"
+    },
+    "tags": [
+      "Egypt",
+      "Nile",
+      "river cruise"
+    ],
+    "comments": [
+      {
+        "userid": "2a9k",
+        "comName": "",
+        "comment": "The temples along the Nile are incredible!",
+        "date": "2023-06-21"
+      },
+      {
+        "userid": "2a7k",
+        "comName": "Emy",
+        "comment": "Sunset on the Nile is unforgettable.",
+        "date": "2023-06-22"
+      }
+    ],
+    "images": [
+      "./img/nile_1.jpg",
+      "./img/nile_2.jpg",
+      "./img/nile_3.jpg",
+      "./img/nile_4.jpg",
+      "./img/nile_5.jpg"
+    ],
+    "Country": "Egypt",
+    "Destination": [
+        "Nile","Cairo","Luxor","Aswan"
+    ]
+  },
+  {
+    "id": "1a1c",
+    "title": "Discovering the Valley of the Kings",
+    "content": "<p>Venturing into the tombs of pharaohs in Luxor's famous necropolis...</p>",
+    "date": "2023-07-10",
+    "author": {
+      "uId": "2a7k",
+      "Uname": "Emy"
+    },
+    "tags": [
+      "Egypt",
+      "Luxor",
+      "archaeology"
+    ],
+    "comments": [
+      {
+        "userid": "2a9k",
+        "comName": "",
+        "comment": "Tutankhamun's tomb is a must-see!",
+        "date": "2023-07-11"
+      },
+      {
+        "userid": "2a8k",
+        "comName": "",
+        "comment": "The wall paintings are so well preserved!",
+        "date": "2023-07-12"
+      }
+    ],
+    "images": [
+      "./img/valley_kings_1.jpg",
+      "./img/valley_kings_2.jpg",
+      "./img/valley_kings_3.jpg",
+      "./img/valley_kings_4.jpg",
+      "./img/valley_kings_5.jpg"
+    ],
+    "Country": "Egypt",
+    "Destination": "Luxor"
+  },
+  {
+    "id": "1a1d",
+    "title": "Exploring Islamic Cairo",
+    "content": "<p>Wandering through the winding alleys of the historic Islamic district...</p>",
+    "date": "2023-08-05",
+    "author": {
+      "uId": "2a9k",
+      "Uname": "John Doe"
+    },
+    "tags": [
+      "Egypt",
+      "Cairo",
+      "Islamic architecture"
+    ],
+    "comments": [
+      {
+        "userid": "2a7k",
+        "comName": "Emy",
+        "comment": "The mosques are architectural marvels!",
+        "date": "2023-08-06"
+      },
+      {
+        "userid": "2a8k",
+        "comName": "",
+        "comment": "Khan el-Khalili bazaar is a shopper's paradise!",
+        "date": "2023-08-07"
+      }
+    ],
+    "images": [
+      "./img/islamic_cairo_1.jpg",
+      "./img/islamic_cairo_2.jpg",
+      "./img/islamic_cairo_3.jpg",
+      "./img/islamic_cairo_4.jpg",
+      "./img/islamic_cairo_5.jpg"
+    ],
+    "Country": "Egypt",
+    "Destination": "Cairo"
+  },
+  {
+    "id": "1a1e",
+    "title": "Diving in the Red Sea",
+    "content": "<p>Exploring the vibrant coral reefs and marine life of Hurghada...</p>",
+    "date": "2023-09-12",
+    "author": {
+      "uId": "2a8k",
+      "Uname": "Jane Doe"
+    },
+    "tags": [
+      "Egypt",
+      "Red Sea",
+      "diving"
+    ],
+    "comments": [
+      {
+        "userid": "2a9k",
+        "comName": "",
+        "comment": "The underwater world is breathtaking!",
+        "date": "2023-09-13"
+      },
+      {
+        "userid": "2a7k",
+        "comName": "Emy",
+        "comment": "I saw so many colorful fish!",
+        "date": "2023-09-14"
+      }
+    ],
+    "images": [
+      "./img/red_sea_1.jpg",
+      "./img/red_sea_2.jpg",
+      "./img/red_sea_3.jpg",
+      "./img/red_sea_4.jpg",
+      "./img/red_sea_5.jpg"
+    ],
+    "Country": "Egypt",
+    "Destination": "Hurghada"
+  }
+]

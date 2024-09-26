@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "email": "Ahmed@gmail.com",
+    "password": "$2a$10$XYZ...hashedpassword",
+    "createdAt": "2023-04-15T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Adam",
+    "email": "Adam@gmail.com",
+    "password": "$2a$10$ABC...hashedpassword",
+    "createdAt": "2023-04-20T11:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "user1",
+    "email": "user1@g.com",
+    "password": "$2a$10$2lQ33At9jwT0tLEJaIX5ju9l.Cv9C4crr.86eHMcHYFNu/jclkJgS",
+    "createdAt": "2024-09-22T15:32:16.057Z"
+  },
+  {
+    "id": 4,
+    "name": "user2",
+    "email": "user2@g.com",
+    "password": "$2a$10$l7vRbGgNpHxhVE5yHBu12eIeHFCy0gkoZlg8Rq0jxWpQQjP46ymUi",
+    "createdAt": "2024-09-22T15:36:46.930Z"
+  }
+]
